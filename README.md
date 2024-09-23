@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi I'm a college senior @ Cornell and a growing Software Engineer! <br><br>🔭 I’m currently working on [Reddiment](https://github.com/ethitopia/data_tagger)<br><br>📫 How to reach me **em834@cornell.edu**
 
-![](https://github-readme-stats.vercel.app/api?username=ethitopia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ethitopia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethitopia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
